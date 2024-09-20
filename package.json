@@ -1,0 +1,13 @@
+{
+  "name": "speeder_webpage",
+  "version": "1.0.0",
+  "description": "Speed Reader web application",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
