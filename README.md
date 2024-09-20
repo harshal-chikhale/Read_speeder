@@ -19,4 +19,5 @@
 3. Click **Start** to begin reading, **Stop** to pause, or **Reset** to clear everything.
 
 ## Screenshots:
-(You can add screenshots of your project here to showcase the interface)
+![image](https://github.com/user-attachments/assets/1e9ff61b-569b-4307-959b-2af28ee075d4)
+
