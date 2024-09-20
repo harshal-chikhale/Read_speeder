@@ -1,4 +1,4 @@
-Speed Reader
+#Speed Reader
 Speed Reader is a web application designed to improve reading speed by displaying one word at a time at a customizable pace. Users can paste any text, set their desired reading speed (words per second), and read the text efficiently in a distraction-free dashboard. The app features Start, Stop, and Reset buttons for full control over the reading process.
 
 Features:
